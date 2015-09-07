@@ -1,2 +1,2 @@
 # Dlog
-Dlog provides a simple wrapper around the standard log package to conditionally print debug log statements.
+Dlog provides a simple wrapper around the standard Go log package to conditionally print debug log statements.
